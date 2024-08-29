@@ -8,6 +8,8 @@
 
 ## Descrizione 
 
+__NB__: specificare che le statistiche sono aggiornate al 2022
+
 ## Analisi e presentazione dei dati
 
 ## Studenti coinvolti
