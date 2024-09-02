@@ -1,7 +1,7 @@
 Pos,Driver,Nationality,Car,PTS,DriverCode,Year
-1,Nino Farina,ITA,Alfa Romeo,30.0,FAR,1950
-2,Juan Manuel Fangio,ARG,Alfa Romeo,27.0,FAN,1950
-3,Luigi Fagioli,ITA,Alfa Romeo,24.0,FAG,1950
+1,Nino Farina,ITA,Alfa Romeo corse,30.0,FAR,1950
+2,Juan Manuel Fangio,ARG,Alfa Romeo corse,27.0,FAN,1950
+3,Luigi Fagioli,ITA,Alfa Romeo corse,24.0,FAG,1950
 4,Louis Rosier,FRA,Talbot-Lago,13.0,ROS,1950
 5,Alberto Ascari,ITA,Ferrari,11.0,ASC,1950
 6,Johnnie Parsons,USA,Kurtis Kraft Offenhauser,9.0,PAR,1950
@@ -21,21 +21,21 @@ Pos,Driver,Nationality,Car,PTS,DriverCode,Year
 20,Tony Bettenhausen,USA,Deidt Offenhauser,1.0,BET,1950
 20,Joie Chitwood,USA,Kurtis Kraft Offenhauser,1.0,CHI,1950
 20,Eugene Chaboud,FRA,,1.0,CHA,1950
-1,Juan Manuel Fangio,ARG,Alfa Romeo,31.0,FAN,1951
+1,Juan Manuel Fangio,ARG,Alfa Romeo corse,31.0,FAN,1951
 2,Alberto Ascari,ITA,Ferrari,25.0,ASC,1951
 3,Jose Froilan Gonzalez,ARG,Ferrari,24.0,GON,1951
-4,Nino Farina,ITA,Alfa Romeo,19.0,FAR,1951
+4,Nino Farina,ITA,Alfa Romeo corse,19.0,FAR,1951
 5,Luigi Villoresi,ITA,Ferrari,15.0,VIL,1951
 6,Piero Taruffi,ITA,Ferrari,10.0,TAR,1951
 7,Lee Wallard,USA,Kurtis Kraft Offenhauser,9.0,WAL,1951
-8,Felice Bonetto,ITA,Alfa Romeo,7.0,BON,1951
+8,Felice Bonetto,ITA,Alfa Romeo corse,7.0,BON,1951
 9,Mike Nazaruk,USA,Kurtis Kraft Offenhauser,6.0,NAZ,1951
 10,Reg Parnell,GBR,BRM,5.0,PAR,1951
-11,Luigi Fagioli,ITA,Alfa Romeo,4.0,FAG,1951
-12,Consalvo Sanesi,ITA,Alfa Romeo,3.0,SAN,1951
+11,Luigi Fagioli,ITA,Alfa Romeo corse,4.0,FAG,1951
+12,Consalvo Sanesi,ITA,Alfa Romeo corse,3.0,SAN,1951
 12,Andy Linden,USA,Sherman Offenhauser,3.0,LIN,1951
 12,Louis Rosier,FRA,,3.0,ROS,1951
-15,Toulo de Graffenried,SUI,Alfa Romeo,2.0,DEG,1951
+15,Toulo de Graffenried,SUI,Alfa Romeo corse,2.0,DEG,1951
 15,Manny Ayulo,USA,Kurtis Kraft Offenhauser,2.0,AYU,1951
 15,Bobby Ball,USA,Schroeder Offenhauser,2.0,BAL,1951
 15,Jack McGrath,USA,Kurtis Kraft Offenhauser,2.0,MCG,1951
@@ -81,13 +81,13 @@ Pos,Driver,Nationality,Car,PTS,DriverCode,Year
 13,Hermann Lang,GER,Maserati,2.0,LAN,1953
 18,Fred Agabashian,USA,Kurtis Kraft Offenhauser,1.5,AGA,1953
 18,Paul Russo,USA,Kurtis Kraft Offenhauser,1.5,RUS,1953
-1,Juan Manuel Fangio,ARG,Mercedes-Benz,42.0,FAN,1954
+1,Juan Manuel Fangio,ARG,Mercedes,42.0,FAN,1954
 2,Jose Froilan Gonzalez,ARG,Ferrari,25.1,GON,1954
 3,Mike Hawthorn,GBR,Ferrari,24.6,HAW,1954
 4,Maurice Trintignant,FRA,Ferrari,17.0,TRI,1954
-5,Karl Kling,GER,Mercedes-Benz,12.0,KLI,1954
+5,Karl Kling,GER,Mercedes,12.0,KLI,1954
 6,Bill Vukovich,USA,Kurtis Kraft Offenhauser,8.0,VUK,1954
-6,Hans Herrmann,GER,Mercedes-Benz,8.0,HER,1954
+6,Hans Herrmann,GER,Mercedes,8.0,HER,1954
 8,Nino Farina,ITA,Ferrari,6.0,FAR,1954
 8,Jimmy Bryan,USA,Kuzma Offenhauser,6.0,BRY,1954
 8,Luigi Musso,ITA,Maserati,6.0,MUS,1954
@@ -107,17 +107,17 @@ Pos,Driver,Nationality,Car,PTS,DriverCode,Year
 23,Duane Carter,USA,Kurtis Kraft Offenhauser,1.5,CAR,1954
 25,Alberto Ascari,ITA,Lancia,1.1,ASC,1954
 26,Jean Behra,FRA,Gordini,0.1,BEH,1954
-1,Juan Manuel Fangio,ARG,Mercedes-Benz,40.0,FAN,1955
-2,Stirling Moss,GBR,Mercedes-Benz,23.0,MOS,1955
+1,Juan Manuel Fangio,ARG,Mercedes,40.0,FAN,1955
+2,Stirling Moss,GBR,Mercedes,23.0,MOS,1955
 3,Eugenio Castellotti,ITA,Ferrari,12.0,CAS,1955
 4,Maurice Trintignant,FRA,Ferrari,11.3,TRI,1955
 5,Nino Farina,ITA,Ferrari,10.3,FAR,1955
-6,Piero Taruffi,ITA,Mercedes-Benz,9.0,TAR,1955
+6,Piero Taruffi,ITA,Mercedes,9.0,TAR,1955
 7,Bob Sweikert,USA,Kurtis Kraft Offenhauser,8.0,SWE,1955
 8,Roberto Mieres,ARG,Maserati,7.0,MIE,1955
 9,Luigi Musso,ITA,Maserati,6.0,MUS,1955
 9,Jean Behra,FRA,Maserati,6.0,BEH,1955
-11,Karl Kling,GER,Mercedes-Benz,5.0,KLI,1955
+11,Karl Kling,GER,Mercedes,5.0,KLI,1955
 12,Jimmy Davies,USA,Kurtis Kraft Offenhauser,4.0,DAV,1955
 13,Paul Russo,USA,Kurtis Kraft Offenhauser,3.0,RUS,1955
 13,Tony Bettenhausen,USA,Kurtis Kraft Offenhauser,3.0,BET,1955
@@ -128,7 +128,7 @@ Pos,Driver,Nationality,Car,PTS,DriverCode,Year
 17,Luigi Villoresi,ITA,Lancia,2.0,VIL,1955
 17,Carlos Menditeguy,ARG,Maserati,2.0,MEN,1955
 21,Umberto Maglioli,ITA,Ferrari,1.3,MAG,1955
-22,Hans Herrmann,GER,Mercedes-Benz,1.0,HER,1955
+22,Hans Herrmann,GER,Mercedes,1.0,HER,1955
 22,Walt Faulkner,USA,Kurtis Kraft Offenhauser,1.0,FAU,1955
 22,Bill Homeier,USA,Kurtis Kraft Offenhauser,1.0,HOM,1955
 22,Bill Vukovich,USA,Kurtis Kraft Offenhauser,1.0,VUK,1955
@@ -322,13 +322,13 @@ Pos,Driver,Nationality,Car,PTS,DriverCode,Year
 18,Pedro Rodriguez,MEX,Lotus Climax,0.0,ROD,1963
 18,Hap Sharp,USA,Lotus BRM,0.0,SHA,1963
 18,Moises Solana,MEX,BRM,0.0,SOL,1963
-18,Doug Serrurier,RSA,LDS Alfa Romeo,0.0,SER,1963
+18,Doug Serrurier,RSA,LDS Alfa Romeo corse,0.0,SER,1963
 18,Trevor Blokdyk,RSA,Cooper Maserati,0.0,BLO,1963
 18,Brausch Niemann,RSA,Lotus Ford,0.0,NIE,1963
 18,John Love,RHO,Cooper Climax,0.0,LOV,1963
 18,Ernie Pieterse,RSA,Lotus Climax,0.0,PIE,1963
-18,Peter de Klerk,RSA,Alfa Romeo,0.0,DEK,1963
-18,Sam Tingle,RHO,LDS Alfa Romeo,0.0,TIN,1963
+18,Peter de Klerk,RSA,Alfa Romeo corse,0.0,DEK,1963
+18,Sam Tingle,RHO,LDS Alfa Romeo corse,0.0,TIN,1963
 18,David Prophet,GBR,Brabham Ford,0.0,PRO,1963
 1,John Surtees,GBR,Ferrari,40.0,SUR,1964
 2,Graham Hill,GBR,BRM,39.0,HIL,1964
@@ -594,12 +594,12 @@ Pos,Driver,Nationality,Car,PTS,DriverCode,Year
 11,Ronnie Peterson,SWE,March Ford,10.0,PET,1976
 11,Tom Pryce,GBR,Shadow Ford,10.0,PRY,1976
 13,Hans-Joachim Stuck,GER,March Ford,8.0,STU,1976
-14,Carlos Pace,BRA,Brabham Alfa Romeo,7.0,PAC,1976
+14,Carlos Pace,BRA,Brabham Alfa Romeo corse,7.0,PAC,1976
 14,Alan Jones,AUS,Surtees Ford,7.0,JON,1976
 16,Carlos Reutemann,ARG,Ferrari,3.0,REU,1976
 16,Emerson Fittipaldi,BRA,Fittipaldi Ford,3.0,FIT,1976
 18,Chris Amon,NZL,Wolf-Williams,2.0,AMO,1976
-19,Rolf Stommelen,GER,Brabham Alfa Romeo,1.0,STO,1976
+19,Rolf Stommelen,GER,Brabham Alfa Romeo corse,1.0,STO,1976
 19,Vittorio Brambilla,ITA,March Ford,1.0,BRA,1976
 1,Niki Lauda,AUT,Ferrari,72.0,LAU,1977
 2,Jody Scheckter,RSA,Wolf Ford,55.0,SCH,1977
@@ -611,11 +611,11 @@ Pos,Driver,Nationality,Car,PTS,DriverCode,Year
 8,Gunnar Nilsson,SWE,Lotus Ford,20.0,NIL,1977
 8,Patrick Depailler,FRA,Tyrrell Ford,20.0,DEP,1977
 10,Jacques Laffite,FRA,Ligier Matra,18.0,LAF,1977
-11,Hans-Joachim Stuck,GER,Brabham Alfa Romeo,12.0,STU,1977
+11,Hans-Joachim Stuck,GER,Brabham Alfa Romeo corse,12.0,STU,1977
 12,Emerson Fittipaldi,BRA,Fittipaldi Ford,11.0,FIT,1977
-13,John Watson,GBR,Brabham Alfa Romeo,9.0,WAT,1977
+13,John Watson,GBR,Brabham Alfa Romeo corse,9.0,WAT,1977
 14,Ronnie Peterson,SWE,Tyrrell Ford,7.0,PET,1977
-15,Carlos Pace,BRA,Brabham Alfa Romeo,6.0,PAC,1977
+15,Carlos Pace,BRA,Brabham Alfa Romeo corse,6.0,PAC,1977
 15,Vittorio Brambilla,ITA,Surtees Ford,6.0,BRA,1977
 17,Patrick Tambay,FRA,Ensign Ford,5.0,TAM,1977
 17,Clay Regazzoni,SUI,Ensign Ford,5.0,REG,1977
@@ -625,9 +625,9 @@ Pos,Driver,Nationality,Car,PTS,DriverCode,Year
 1,Mario Andretti,USA,Lotus Ford,64.0,AND,1978
 2,Ronnie Peterson,SWE,Lotus Ford,51.0,PET,1978
 3,Carlos Reutemann,ARG,Ferrari,48.0,REU,1978
-4,Niki Lauda,AUT,Brabham Alfa Romeo,44.0,LAU,1978
+4,Niki Lauda,AUT,Brabham Alfa Romeo corse,44.0,LAU,1978
 5,Patrick Depailler,FRA,Tyrrell Ford,34.0,DEP,1978
-6,John Watson,GBR,Brabham Alfa Romeo,25.0,WAT,1978
+6,John Watson,GBR,Brabham Alfa Romeo corse,25.0,WAT,1978
 7,Jody Scheckter,RSA,Wolf Ford,24.0,SCH,1978
 8,Jacques Laffite,FRA,Ligier Matra,19.0,LAF,1978
 9,Gilles Villeneuve,CAN,Ferrari,17.0,VIL,1978
@@ -681,7 +681,7 @@ Pos,Driver,Nationality,Car,PTS,DriverCode,Year
 15,Emerson Fittipaldi,BRA,Fittipaldi Ford,5.0,FIT,1980
 15,Alain Prost,FRA,McLaren Ford,5.0,PRO,1980
 17,Jochen Mass,GER,Arrows Ford,4.0,MAS,1980
-17,Bruno Giacomelli,ITA,Alfa Romeo,4.0,GIA,1980
+17,Bruno Giacomelli,ITA,Alfa Romeo corse,4.0,GIA,1980
 19,Jody Scheckter,RSA,Ferrari,2.0,SCH,1980
 20,Hector Rebaque,MEX,Brabham Ford,1.0,REB,1980
 20,Mario Andretti,USA,Lotus Ford,1.0,AND,1980
@@ -699,9 +699,9 @@ Pos,Driver,Nationality,Car,PTS,DriverCode,Year
 11,Eddie Cheever,USA,Tyrrell Ford,10.0,CHE,1981
 13,Didier Pironi,FRA,Ferrari,9.0,PIR,1981
 14,Nigel Mansell,GBR,Lotus Ford,8.0,MAN,1981
-15,Bruno Giacomelli,ITA,Alfa Romeo,7.0,GIA,1981
+15,Bruno Giacomelli,ITA,Alfa Romeo corse,7.0,GIA,1981
 16,Marc Surer,SUI,Theodore Ford,4.0,SUR,1981
-17,Mario Andretti,USA,Alfa Romeo,3.0,AND,1981
+17,Mario Andretti,USA,Alfa Romeo corse,3.0,AND,1981
 18,Patrick Tambay,FRA,Ligier Matra,1.0,TAM,1981
 18,Andrea de Cesaris,ITA,McLaren Ford,1.0,DEC,1981
 18,Slim Borgudd,SWE,ATS Ford,1.0,BOR,1981
@@ -722,14 +722,14 @@ Pos,Driver,Nationality,Car,PTS,DriverCode,Year
 14,Nigel Mansell,GBR,Lotus Ford,7.0,MAN,1982
 15,Carlos Reutemann,ARG,Williams Ford,6.0,REU,1982
 15,Gilles Villeneuve,CAN,Ferrari,6.0,VIL,1982
-17,Andrea de Cesaris,ITA,Alfa Romeo,5.0,DEC,1982
+17,Andrea de Cesaris,ITA,Alfa Romeo corse,5.0,DEC,1982
 17,Jacques Laffite,FRA,Ligier Matra,5.0,LAF,1982
 19,Mario Andretti,USA,Ferrari,4.0,AND,1982
 20,Jean-Pierre Jarier,FRA,Osella Ford,3.0,JAR,1982
 20,Marc Surer,SUI,Arrows Ford,3.0,SUR,1982
 22,Manfred Winkelhock,GER,ATS Ford,2.0,WIN,1982
 22,Eliseo Salazar,CHI,ATS Ford,2.0,SAL,1982
-22,Bruno Giacomelli,ITA,Alfa Romeo,2.0,GIA,1982
+22,Bruno Giacomelli,ITA,Alfa Romeo corse,2.0,GIA,1982
 22,Mauro Baldi,ITA,Arrows Ford,2.0,BAL,1982
 26,Chico Serra,BRA,Fittipaldi Ford,1.0,SER,1982
 1,Nelson Piquet,BRA,Brabham BMW,59.0,PIQ,1983
@@ -739,7 +739,7 @@ Pos,Driver,Nationality,Car,PTS,DriverCode,Year
 5,Keke Rosberg,FIN,Williams Honda,27.0,ROS,1983
 6,John Watson,GBR,McLaren Ford,22.0,WAT,1983
 7,Eddie Cheever,USA,Renault,22.0,CHE,1983
-8,Andrea de Cesaris,ITA,Alfa Romeo,15.0,DEC,1983
+8,Andrea de Cesaris,ITA,Alfa Romeo corse,15.0,DEC,1983
 9,Riccardo Patrese,ITA,Brabham BMW,13.0,PAT,1983
 10,Niki Lauda,AUT,McLaren TAG,12.0,LAU,1983
 11,Jacques Laffite,FRA,Williams Honda,11.0,LAF,1983
@@ -747,7 +747,7 @@ Pos,Driver,Nationality,Car,PTS,DriverCode,Year
 13,Nigel Mansell,GBR,Lotus Renault,10.0,MAN,1983
 14,Derek Warwick,GBR,Toleman Hart,9.0,WAR,1983
 15,Marc Surer,SUI,Arrows Ford,4.0,SUR,1983
-16,Mauro Baldi,ITA,Alfa Romeo,3.0,BAL,1983
+16,Mauro Baldi,ITA,Alfa Romeo corse,3.0,BAL,1983
 17,Elio de Angelis,ITA,Lotus Renault,2.0,DEA,1983
 18,Danny Sullivan,USA,Tyrrell Ford,2.0,SUL,1983
 19,Bruno Giacomelli,ITA,Toleman Hart,1.0,GIA,1983
@@ -764,13 +764,13 @@ Pos,Driver,Nationality,Car,PTS,DriverCode,Year
 10,Nigel Mansell,GBR,Lotus Renault,13.0,MAN,1984
 11,Patrick Tambay,FRA,Renault,11.0,TAM,1984
 12,Teo Fabi,ITA,Brabham BMW,9.0,FAB,1984
-13,Riccardo Patrese,ITA,Alfa Romeo,8.0,PAT,1984
+13,Riccardo Patrese,ITA,Alfa Romeo corse,8.0,PAT,1984
 14,Jacques Laffite,FRA,Williams Honda,5.0,LAF,1984
 15,Thierry Boutsen,BEL,Arrows BMW,5.0,BOU,1984
-16,Eddie Cheever,USA,Alfa Romeo,3.0,CHE,1984
+16,Eddie Cheever,USA,Alfa Romeo corse,3.0,CHE,1984
 17,Stefan Johansson,SWE,Toleman Hart,3.0,JOH,1984
 18,Andrea de Cesaris,ITA,Ligier Renault,3.0,DEC,1984
-19,Piercarlo Ghinzani,ITA,Osella Alfa Romeo,2.0,GHI,1984
+19,Piercarlo Ghinzani,ITA,Osella Alfa Romeo corse,2.0,GHI,1984
 20,Marc Surer,SUI,Arrows BMW,1.0,SUR,1984
 1,Alain Prost,FRA,McLaren TAG,73.0,PRO,1985
 2,Michele Alboreto,ITA,Ferrari,53.0,ALB,1985
