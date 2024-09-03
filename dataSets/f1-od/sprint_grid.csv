@@ -59,26 +59,26 @@ Pos,No,Driver,Car,Time,Year,Grand Prix,Detail,DriverCode
 18,47,Mick Schumacher,Haas Ferrari,1:10.329,2021,Brazil,Sprint-Grid,MSC
 19,9,Nikita Mazepin,Haas Ferrari,1:10.589,2021,Brazil,Sprint-Grid,MAZ
 20,44,Lewis Hamilton,Mercedes,,2021,Brazil,Sprint-Grid,HAM
-1,1,Max Verstappen,Red Bull Racing RBPT,1:27.999,2022,Emilia Romagna,Sprint-Grid,VER
-2,16,Charles Leclerc,Ferrari,1:28.778,2022,Emilia Romagna,Sprint-Grid,LEC
-3,4,Lando Norris,McLaren Mercedes,1:29.131,2022,Emilia Romagna,Sprint-Grid,NOR
-4,20,Kevin Magnussen,Haas Ferrari,1:29.164,2022,Emilia Romagna,Sprint-Grid,MAG
-5,14,Fernando Alonso,Alpine Renault,1:29.202,2022,Emilia Romagna,Sprint-Grid,ALO
-6,3,Daniel Ricciardo,McLaren Mercedes,1:29.742,2022,Emilia Romagna,Sprint-Grid,RIC
-7,11,Sergio Perez,Red Bull Racing RBPT,1:29.808,2022,Emilia Romagna,Sprint-Grid,PER
-8,77,Valtteri Bottas,Alfa Romeo Ferrari,1:30.439,2022,Emilia Romagna,Sprint-Grid,BOT
-9,5,Sebastian Vettel,Aston Martin Aramco Mercedes,1:31.062,2022,Emilia Romagna,Sprint-Grid,VET
-10,55,Carlos Sainz,Ferrari,,2022,Emilia Romagna,Sprint-Grid,SAI
-11,63,George Russell,Mercedes,1:20.757,2022,Emilia Romagna,Sprint-Grid,RUS
-12,47,Mick Schumacher,Haas Ferrari,1:20.916,2022,Emilia Romagna,Sprint-Grid,MSC
-13,44,Lewis Hamilton,Mercedes,1:21.138,2022,Emilia Romagna,Sprint-Grid,HAM
-14,24,Zhou Guanyu,Alfa Romeo Ferrari,1:21.434,2022,Emilia Romagna,Sprint-Grid,ZHO
-15,18,Lance Stroll,Aston Martin Aramco Mercedes,1:28.119,2022,Emilia Romagna,Sprint-Grid,STR
-16,22,Yuki Tsunoda,AlphaTauri RBPT,1:20.474,2022,Emilia Romagna,Sprint-Grid,TSU
-17,10,Pierre Gasly,AlphaTauri RBPT,1:20.732,2022,Emilia Romagna,Sprint-Grid,GAS
-18,6,Nicholas Latifi,Williams Mercedes,1:21.971,2022,Emilia Romagna,Sprint-Grid,LAT
-19,31,Esteban Ocon,Alpine Renault,1:22.338,2022,Emilia Romagna,Sprint-Grid,OCO
-20,23,Alexander Albon,Williams Mercedes,,2022,Emilia Romagna,Sprint-Grid,ALB
+1,1,Max Verstappen,Red Bull Racing RBPT,1:27.999,2022,Italy,Sprint-Grid,VER
+2,16,Charles Leclerc,Ferrari,1:28.778,2022,Italy,Sprint-Grid,LEC
+3,4,Lando Norris,McLaren Mercedes,1:29.131,2022,Italy,Sprint-Grid,NOR
+4,20,Kevin Magnussen,Haas Ferrari,1:29.164,2022,Italy,Sprint-Grid,MAG
+5,14,Fernando Alonso,Alpine Renault,1:29.202,2022,Italy,Sprint-Grid,ALO
+6,3,Daniel Ricciardo,McLaren Mercedes,1:29.742,2022,Italy,Sprint-Grid,RIC
+7,11,Sergio Perez,Red Bull Racing RBPT,1:29.808,2022,Italy,Sprint-Grid,PER
+8,77,Valtteri Bottas,Alfa Romeo Ferrari,1:30.439,2022,Italy,Sprint-Grid,BOT
+9,5,Sebastian Vettel,Aston Martin Aramco Mercedes,1:31.062,2022,Italy,Sprint-Grid,VET
+10,55,Carlos Sainz,Ferrari,,2022,Italy,Sprint-Grid,SAI
+11,63,George Russell,Mercedes,1:20.757,2022,Italy,Sprint-Grid,RUS
+12,47,Mick Schumacher,Haas Ferrari,1:20.916,2022,Italy,Sprint-Grid,MSC
+13,44,Lewis Hamilton,Mercedes,1:21.138,2022,Italy,Sprint-Grid,HAM
+14,24,Zhou Guanyu,Alfa Romeo Ferrari,1:21.434,2022,Italy,Sprint-Grid,ZHO
+15,18,Lance Stroll,Aston Martin Aramco Mercedes,1:28.119,2022,Italy,Sprint-Grid,STR
+16,22,Yuki Tsunoda,AlphaTauri RBPT,1:20.474,2022,Italy,Sprint-Grid,TSU
+17,10,Pierre Gasly,AlphaTauri RBPT,1:20.732,2022,Italy,Sprint-Grid,GAS
+18,6,Nicholas Latifi,Williams Mercedes,1:21.971,2022,Italy,Sprint-Grid,LAT
+19,31,Esteban Ocon,Alpine Renault,1:22.338,2022,Italy,Sprint-Grid,OCO
+20,23,Alexander Albon,Williams Mercedes,,2022,Italy,Sprint-Grid,ALB
 1,1,Max Verstappen,Red Bull Racing RBPT,1:04.984,2022,Austria,Sprint-Grid,VER
 2,16,Charles Leclerc,Ferrari,1:05.013,2022,Austria,Sprint-Grid,LEC
 3,55,Carlos Sainz,Ferrari,1:05.066,2022,Austria,Sprint-Grid,SAI
