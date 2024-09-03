@@ -161,7 +161,7 @@ Pos,Team,PTS,Year
 6,Ligier Matra,20.0,1976
 7,March Ford,19.0,1976
 8,Shadow Ford,10.0,1976
-9,Brabham Alfa Romeo,9.0,1976
+9,Alfa Romeo Racing, 9.0,1976
 10,Surtees Ford,7.0,1976
 11,Fittipaldi Ford,3.0,1976
 12,Ensign Ford,2.0,1976
@@ -170,7 +170,7 @@ Pos,Team,PTS,Year
 2,Lotus Ford,62.0,1977
 3,McLaren Ford,60.0,1977
 4,Wolf Ford,55.0,1977
-5,Brabham Alfa Romeo,27.0,1977
+5,Alfa Romeo Racing, 27.0,1977
 6,Tyrrell Ford,27.0,1977
 7,Shadow Ford,23.0,1977
 8,Ligier Matra,18.0,1977
@@ -180,7 +180,7 @@ Pos,Team,PTS,Year
 12,Penske Ford,1.0,1977
 1,Lotus Ford,86.0,1978
 2,Ferrari,58.0,1978
-3,Brabham Alfa Romeo,53.0,1978
+3,Alfa Romeo Racing, 53.0,1978
 4,Tyrrell Ford,38.0,1978
 5,Wolf Ford,24.0,1978
 6,Ligier Matra,19.0,1978
@@ -214,7 +214,7 @@ Pos,Team,PTS,Year
 8,Fittipaldi Ford,11.0,1980
 9,McLaren Ford,11.0,1980
 10,Ferrari,8.0,1980
-11,Alfa Romeo,4.0,1980
+11,Alfa Romeo Racing, 4.0,1980
 1,Williams Ford,95.0,1981
 2,Brabham Ford,61.0,1981
 3,Renault,54.0,1981
@@ -223,7 +223,7 @@ Pos,Team,PTS,Year
 6,McLaren Ford,28.0,1981
 7,Lotus Ford,22.0,1981
 8,Arrows Ford,10.0,1981
-9,Alfa Romeo,10.0,1981
+9,Alfa Romeo Racing, 10.0,1981
 10,Tyrrell Ford,10.0,1981
 11,Ensign Ford,5.0,1981
 12,Theodore Ford,1.0,1981
@@ -237,7 +237,7 @@ Pos,Team,PTS,Year
 7,Brabham BMW,22.0,1982
 8,Ligier Matra,20.0,1982
 9,Brabham Ford,19.0,1982
-10,Alfa Romeo,7.0,1982
+10,Alfa Romeo Racing, 7.0,1982
 11,Arrows Ford,5.0,1982
 12,ATS Ford,4.0,1982
 13,Osella Ford,3.0,1982
@@ -247,7 +247,7 @@ Pos,Team,PTS,Year
 3,Brabham BMW,72.0,1983
 4,Williams Ford,36.0,1983
 5,McLaren Ford,34.0,1983
-6,Alfa Romeo,18.0,1983
+6,Alfa Romeo Racing, 18.0,1983
 7,Tyrrell Ford,12.0,1983
 8,Lotus Renault,11.0,1983
 9,Toleman Hart,10.0,1983
@@ -262,11 +262,11 @@ Pos,Team,PTS,Year
 5,Renault,34.0,1984
 6,Williams Honda,25.5,1984
 7,Toleman Hart,16.0,1984
-8,Alfa Romeo,11.0,1984
+8,Alfa Romeo Racing, 11.0,1984
 9,Arrows BMW,3.0,1984
 10,Ligier Renault,3.0,1984
 11,Arrows Ford,3.0,1984
-12,Osella Alfa Romeo,2.0,1984
+12,Osella Alfa Romeo Racing, 2.0,1984
 1,McLaren TAG,90.0,1985
 2,Ferrari,82.0,1985
 3,Lotus Renault,71.0,1985
@@ -354,7 +354,7 @@ Pos,Team,PTS,Year
 4,Ferrari,21.0,1992
 5,Lotus Ford,13.0,1992
 6,Tyrrell Ilmor,8.0,1992
-7,Footwork Mugen Honda,6.0,1992
+7,Footwork Hart,6.0,1992
 8,Ligier Renault,6.0,1992
 9,March Ilmor,3.0,1992
 10,Dallara Ferrari,2.0,1992
@@ -369,7 +369,7 @@ Pos,Team,PTS,Year
 6,Lotus Ford,12.0,1993
 7,Sauber,12.0,1993
 8,Minardi Ford,7.0,1993
-9,Footwork Mugen Honda,4.0,1993
+9,Footwork Hart,4.0,1993
 10,Larrousse Lamborghini,3.0,1993
 11,Jordan Hart,3.0,1993
 1,Williams Renault,118.0,1994
@@ -415,7 +415,7 @@ Pos,Team,PTS,Year
 1,McLaren Mercedes,156.0,1998
 2,Ferrari,133.0,1998
 3,Williams Mecachrome,38.0,1998
-4,Jordan Mugen Honda,34.0,1998
+4,Jordan Honda ,34.0,1998
 5,Benetton Playlife,33.0,1998
 6,Sauber Petronas,10.0,1998
 7,Arrows,6.0,1998
@@ -423,7 +423,7 @@ Pos,Team,PTS,Year
 9,Prost Peugeot,1.0,1998
 1,Ferrari,128.0,1999
 2,McLaren Mercedes,124.0,1999
-3,Jordan Mugen Honda,61.0,1999
+3,Jordan Honda ,61.0,1999
 4,Stewart Ford,36.0,1999
 5,Williams Supertec,35.0,1999
 6,Benetton Playlife,16.0,1999
@@ -436,7 +436,7 @@ Pos,Team,PTS,Year
 3,Williams BMW,36.0,2000
 4,Benetton Playlife,20.0,2000
 5,BAR Honda,20.0,2000
-6,Jordan Mugen Honda,17.0,2000
+6,Jordan Honda ,17.0,2000
 7,Arrows Supertec,7.0,2000
 8,Sauber Petronas,6.0,2000
 9,Jaguar Cosworth,4.0,2000
@@ -487,7 +487,7 @@ Pos,Team,PTS,Year
 4,Toyota,88.0,2005
 5,Williams BMW,66.0,2005
 6,BAR Honda,38.0,2005
-7,RBR Cosworth,34.0,2005
+7,Red Bull Racing,34.0,2005
 8,Sauber Petronas,20.0,2005
 9,Jordan Toyota,12.0,2005
 10,Minardi Cosworth,7.0,2005
@@ -497,11 +497,11 @@ Pos,Team,PTS,Year
 4,Honda,86.0,2006
 5,Sauber BMW,36.0,2006
 6,Toyota,35.0,2006
-7,RBR Ferrari,16.0,2006
+7,Red Bull Racing,16.0,2006
 8,Williams Cosworth,11.0,2006
 9,STR Cosworth,1.0,2006
-10,MF1 Toyota,0.0,2006
-11,Super Aguri Honda,0.0,2006
+10,Toyota,0.0,2006
+11,Honda,0.0,2006
 1,Ferrari,204.0,2007
 2,Sauber BMW,101.0,2007
 3,Renault,51.0,2007
@@ -510,7 +510,7 @@ Pos,Team,PTS,Year
 6,Toyota,13.0,2007
 7,STR Ferrari,8.0,2007
 8,Honda,6.0,2007
-9,Super Aguri Honda,4.0,2007
+9,Honda,4.0,2007
 10,Spyker Ferrari,1.0,2007
 EX,McLaren Mercedes,0.0,2007
 1,Ferrari,172.0,2008
@@ -523,9 +523,9 @@ EX,McLaren Mercedes,0.0,2007
 8,Williams Toyota,26.0,2008
 9,Honda,14.0,2008
 10,Force India Ferrari,0.0,2008
-11,Super Aguri Honda,0.0,2008
+11,Honda,0.0,2008
 1,Brawn Mercedes,172.0,2009
-2,RBR Renault,153.5,2009
+2,Red Bull Racing,153.5,2009
 3,McLaren Mercedes,71.0,2009
 4,Ferrari,70.0,2009
 5,Toyota,59.5,2009
@@ -534,7 +534,7 @@ EX,McLaren Mercedes,0.0,2007
 8,Renault,26.0,2009
 9,Force India Mercedes,13.0,2009
 10,STR Ferrari,8.0,2009
-1,Red Bull Racing Renault,498.0,2010
+1,Red Bull Racing,498.0,2010
 2,McLaren Mercedes,454.0,2010
 3,Ferrari,396.0,2010
 4,Mercedes,214.0,2010
@@ -546,7 +546,7 @@ EX,McLaren Mercedes,0.0,2007
 10,Lotus Cosworth,0.0,2010
 11,HRT Cosworth,0.0,2010
 12,Virgin Cosworth,0.0,2010
-1,Red Bull Racing Renault,650.0,2011
+1,Red Bull Racing,650.0,2011
 2,McLaren Mercedes,497.0,2011
 3,Ferrari,375.0,2011
 4,Mercedes,165.0,2011
@@ -558,7 +558,7 @@ EX,McLaren Mercedes,0.0,2007
 10,Lotus Renault,0.0,2011
 11,HRT Cosworth,0.0,2011
 12,Virgin Cosworth,0.0,2011
-1,Red Bull Racing Renault,460.0,2012
+1,Red Bull Racing,460.0,2012
 2,Ferrari,400.0,2012
 3,McLaren Mercedes,378.0,2012
 4,Lotus Renault,303.0,2012
@@ -570,7 +570,7 @@ EX,McLaren Mercedes,0.0,2007
 10,Caterham Renault,0.0,2012
 11,Marussia Cosworth,0.0,2012
 12,HRT Cosworth,0.0,2012
-1,Red Bull Racing Renault,596.0,2013
+1,Red Bull Racing,596.0,2013
 2,Mercedes,360.0,2013
 3,Ferrari,354.0,2013
 4,Lotus Renault,315.0,2013
@@ -582,7 +582,7 @@ EX,McLaren Mercedes,0.0,2007
 10,Marussia Cosworth,0.0,2013
 11,Caterham Renault,0.0,2013
 1,Mercedes,701.0,2014
-2,Red Bull Racing Renault,405.0,2014
+2,Red Bull Racing,405.0,2014
 3,Williams Mercedes,320.0,2014
 4,Ferrari,216.0,2014
 5,McLaren Mercedes,181.0,2014
@@ -595,7 +595,7 @@ EX,McLaren Mercedes,0.0,2007
 1,Mercedes,703.0,2015
 2,Ferrari,428.0,2015
 3,Williams Mercedes,257.0,2015
-4,Red Bull Racing Renault,187.0,2015
+4,Red Bull Racing,187.0,2015
 5,Force India Mercedes,136.0,2015
 6,Lotus Mercedes,78.0,2015
 7,STR Renault,67.0,2015
@@ -603,7 +603,7 @@ EX,McLaren Mercedes,0.0,2007
 9,McLaren Honda,27.0,2015
 10,Marussia Ferrari,0.0,2015
 1,Mercedes,765.0,2016
-2,Red Bull Racing TAG Heuer,468.0,2016
+2,Red Bull Racing,468.0,2016
 3,Ferrari,398.0,2016
 4,Force India Mercedes,173.0,2016
 5,Williams Mercedes,138.0,2016
@@ -615,56 +615,56 @@ EX,McLaren Mercedes,0.0,2007
 11,MRT Mercedes,1.0,2016
 1,Mercedes,668.0,2017
 2,Ferrari,522.0,2017
-3,Red Bull Racing TAG Heuer,368.0,2017
+3,Red Bull Racing,368.0,2017
 4,Force India Mercedes,187.0,2017
 5,Williams Mercedes,83.0,2017
 6,Renault,57.0,2017
-7,Toro Rosso,53.0,2017
+7,Toro Rosso Racing,53.0,2017
 8,Haas Ferrari,47.0,2017
 9,McLaren Honda,30.0,2017
 10,Sauber Ferrari,5.0,2017
 1,Mercedes,655.0,2018
 2,Ferrari,571.0,2018
-3,Red Bull Racing TAG Heuer,419.0,2018
+3,Red Bull Racing,419.0,2018
 4,Renault,122.0,2018
 5,Haas Ferrari,93.0,2018
 6,McLaren Renault,62.0,2018
 7,Force India Mercedes,52.0,2018
 8,Sauber Ferrari,48.0,2018
-9,Scuderia Toro Rosso Honda,33.0,2018
+9,Toro Rosso Racing,33.0,2018
 10,Williams Mercedes,7.0,2018
 EX,Force India Sahara,0.0,2018
 1,Mercedes,739.0,2019
 2,Ferrari,504.0,2019
-3,Red Bull Racing Honda,417.0,2019
+3,Red Bull Racing,417.0,2019
 4,McLaren Renault,145.0,2019
 5,Renault,91.0,2019
-6,Scuderia Toro Rosso Honda,85.0,2019
+6,Toro Rosso Racing,85.0,2019
 7,Racing Point BWT Mercedes,73.0,2019
-8,Alfa Romeo Racing Ferrari,57.0,2019
+8,Alfa Romeo Racing ,57.0,2019
 9,Haas Ferrari,28.0,2019
 10,Williams Mercedes,1.0,2019
 1,Mercedes,573.0,2020
-2,Red Bull Racing Honda,319.0,2020
+2,Red Bull Racing,319.0,2020
 3,McLaren Renault,202.0,2020
 4,Racing Point BWT Mercedes,195.0,2020
 5,Renault,181.0,2020
 6,Ferrari,131.0,2020
 7,AlphaTauri Honda,107.0,2020
-8,Alfa Romeo Racing Ferrari,8.0,2020
+8,Alfa Romeo Racing ,8.0,2020
 9,Haas Ferrari,3.0,2020
 10,Williams Mercedes,0.0,2020
 1,Mercedes,613.5,2021
-2,Red Bull Racing Honda,585.5,2021
+2,Red Bull Racing,585.5,2021
 3,Ferrari,323.5,2021
 4,McLaren Mercedes,275.0,2021
 5,Alpine Renault,155.0,2021
 6,AlphaTauri Honda,142.0,2021
 7,Aston Martin Mercedes,77.0,2021
 8,Williams Mercedes,23.0,2021
-9,Alfa Romeo Racing Ferrari,13.0,2021
+9,Alfa Romeo Racing ,13.0,2021
 10,Haas Ferrari,0.0,2021
-1,Red Bull Racing RBPT,759.0,2022
+1,Red Bull Racing,759.0,2022
 2,Ferrari,554.0,2022
 3,Mercedes,515.0,2022
 4,Alpine Renault,173.0,2022
