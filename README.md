@@ -9,13 +9,13 @@
     - [Nota bene](#Nota-bene)
 ## Descrizione 
 
-Progetto realizzato per il corso di Visualizzazione Scientifica A.A. 2023/2024 appello di Settembre.
+Progetto realizzato per il corso di Visualizzazione Scientifica A.A. 2023/2024, appello di Settembre.
 In questo lavoro ci siamo concentrati sull'analizzare i dati più importanti relativi ai campionati di Formula 1 
 dal 1950, primo anno della competizione, al 2022.
 
 ## Presentazione dei dati
 
-La presentazione è stata creata con [Slides](https://slides.com/), usando i siti [Coolors](https://coolors.co/) e [Venngage](https://venngage.com/) per assicurarsi che il risultato del lavoro fosse fruibile per tutti, persone affette da discromatopsia comprese.
+La presentazione è stata creata con [Slides](https://slides.com/), usando i siti [Coolors](https://coolors.co/) e [Venngage](https://venngage.com/) al fine di assicurarsi che il risultato del lavoro fosse fruibile per tutti, persone affette da discromatopsia comprese.
 
 La presentazione è visualizzabile al link seguente: [https://slides.com/matteocelardo/vissci/fullscreen](https://slides.com/matteocelardo/vissci/fullscreen)
 
