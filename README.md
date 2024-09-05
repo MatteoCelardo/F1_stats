@@ -15,7 +15,7 @@ dal 1950, primo anno della competizione, al 2022.
 
 ## Presentazione dei dati
 
-La presentazione è stata creata con [Slides](https://slides.com/), usando i siti [Coolors](https://coolors.co/) e [Venngage](https://venngage.com/) al fine di assicurarsi che il risultato del lavoro fosse fruibile per tutti, persone affette da discromatopsia comprese.
+La presentazione è stata creata con [Slides](https://slides.com/), usando i siti [Coolors](https://coolors.co/) e [Venngage](https://venngage.com/) al fine di assicurarsi che il risultato del lavoro fosse maggiormente fruibile, persone affette da qualunque tipo di discromatopsia reperibile sui siti citati comprese.
 
 La presentazione è visualizzabile al link seguente: [https://slides.com/matteocelardo/vissci/fullscreen](https://slides.com/matteocelardo/vissci/fullscreen)
 
